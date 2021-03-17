@@ -1,2 +1,2 @@
 # FinTech-Bootcamp
-# Student Name: Cristina Pitu
+Student Name: Cristina Pitu
