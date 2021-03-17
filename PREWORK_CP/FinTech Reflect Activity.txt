@@ -1,0 +1,6 @@
+Throughout the course, I will gain experience with a host of popular tools and methods such as Python
+programming, financial libraries, machine learning algorithms, Solidity smart contracts, Ethereum, and
+blockchain. 
+
+I will learn how these concepts are leveraged within financial fields from insurance to
+investment banking, as well as best practices for using these skills to add value to my organizations.
