@@ -1,0 +1,28 @@
+Digital Banking
+Cristina Pitu
+
+What does the particular FinTech domain do? What is its purpose?
+Digital Banking represents the collection of applications actually that are especially created to support the day-by-day processes between the clients and the banks. It might be about websites, where the clients log in and make a transaction, pay a bill, download a statement etc. 
+Nowadays it is not mandatory to be a real bank in order to offer such services. Some of them do exist online, but they do not have any office for the public.
+
+What is the competitive landscape? Who are its main contenders?
+Blockchain and Cryptocurrency. Because of the fact that everything is encrypted when it comes to Blockchain, nobody can track anything, except the sender and receiver. 
+Normally, the banks have full control over the transactions, meaning they are able to track deverything. 
+
+What are the main factors for change in the domain? How is the domain being disrupted by innovation?
+Because of the fact that everything is encrypted when it comes to Blockchain, nobody can track anything, except the sender and receiver. 
+Normally, the banks have full control over the transactions, meaning they are able to track everything: Who sent the money, total amount, date of transaction etc.
+But with the blockchain the banks, governments and other institutions do not have this power anymore.
+
+What are the technologies used?
+Web services, APIs, mobile technologies, mobile services
+
+
+What is its past, present, and future growth?
+Digital banking was slowly secured in the past and the clients did not perform any online transaction because of this security "gap". Nobody took any risk in terms of that. Another issue was related to 
+the performance of these services (512MB RAM)
+
+Today, digital banking is more secured, is faster thanks to the new hardware devices that exist nowadays (16GB RAM today). They made investments in terms of the security side like N-factory authentication.
+
+Moving forward, the digital banking should be improved in order to support more crypto-currencies. From the tech perspective they have to adapt to this, in order to support all the cryptocurrencies (which means more powerful hardware devices), 
+a higher speed of the internet.	
