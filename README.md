@@ -12,4 +12,4 @@ I chose FinTech as a career path because of the content of the course.
 
 ### Table of contents ###
 * [First Directory](PREWORK_CP)
-* [Readme File](readme.md)
+* [Readme File](README.md)
