@@ -1,5 +1,6 @@
-# FinTech-Bootcamp
+# FinTech-Bootcamp #
 # Activity 2 - create new_test_repo
+![descriptiond-of-the-picture](/PREWORK_CP/Pictures/1.jpg)
 
 Student Name: Cristina Pitu
 
@@ -8,3 +9,4 @@ My Career goals are the following:
 * Increase earnings
 
 I chose FinTech as a career path because of the content of the course.
+
