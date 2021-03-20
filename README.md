@@ -1,5 +1,5 @@
 # FinTech-Bootcamp #
-## Activity 2 - create new_test_repo ##
+## Activity 2 ##
 ![description-of-the-picture](/PREWORK_CP/Pictures/1.jpg)
 
 Student Name: Cristina Pitu
