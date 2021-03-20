@@ -1,4 +1,6 @@
 # FinTech-Bootcamp
+# Activity 2 - create new_test_repo
+
 Student Name: Cristina Pitu
 
 My Career goals are the following:
