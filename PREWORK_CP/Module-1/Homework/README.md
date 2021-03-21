@@ -34,10 +34,10 @@ What solution does this company offer that their competitors do not or cannot of
         * Those who want automatic rebalancing.
         * Users who like goal-based tools.
     #### Benefits of using **Betterment**
-        Account minimum: **Betterment** is one of the few robo-advisors that doesn't require a minimum deposit. However, that applies only to its **Betterment** Digital offering. 
-        High-yield cash account: **Betterment** also offers a way for you to stash your savings with them. Called Cash Reserve, it comes with an interest rate of 0.30%. (This interest rate is variable and may change.) Your savings will get up to $1 million in FDIC insurance coverage, there's no minimum balance requirement, and you won't pay a fee on your balance.
+        * Account minimum: Betterment is one of the few robo-advisors that doesn't require a minimum deposit. However, that applies only to its Betterment Digital offering. 
+        * High-yield cash account: Betterment also offers a way for you to stash your savings with them. Called Cash Reserve, it comes with an interest rate of 0.30%. (This interest rate is variable and may change.) Your savings will get up to $1 million in FDIC insurance coverage, there's no minimum balance requirement, and you won't pay a fee on your balance.
     #### Market Size of the set of customers
-        As of March, **Betterment** boasts 500,000 accounts with an average account size of $44,000.
+        As of March, Betterment boasts 500,000 accounts with an average account size of $44,000.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
     * Mobile Technologies
