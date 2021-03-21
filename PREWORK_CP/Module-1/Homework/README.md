@@ -52,6 +52,7 @@ What solution does this company offer that their competitors do not or cannot of
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+
 Robo Advising
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
