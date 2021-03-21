@@ -65,18 +65,25 @@ Robo Advising
 ## Results
 
 * What has been the business impact of this company so far?
+People that were working as financial advisors lost some clients, especially young ones. Some of these advisors were supposed to find another job.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Number of customers, profitabily and satisfaction level of each customer. They have a data warehouse and they are creating statistics, using different technologies. Business Intelligence, Big Data, Data & Analytics are some of the solutions that they use in this scope.
 
 * How is your company performing relative to competitors in the same domain?
+By following and comparing the driven results they have. 
 
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+I would advise them to start implementing blockchain solutions, because young people started to invest in cryptocurrencies. 
 
 * Why do you think that offering this product or service would benefit the company?
+Because, at some point, everybody will make the transsition to this technology. I am confident that all the people will perfom this transition only because of the benefits that it's offering. Transparancy: nobody is able to track any transaction, not even the governments, because everything is encrypted. 
 
 * What technologies would this additional product or service utilize?
+Blockchain
 
 * Why are these technologies appropriate for your solution?
+Because young people started to use this technology. Once they started to invest in it, they will keep doing this up until they will fully transition to cryptocurrencies.
