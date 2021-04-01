@@ -1,3 +1,6 @@
 [submodule "PREWORK_CP/Module-2/Python - Homework"]
 	path = PREWORK_CP/Module-2/Python - Homework
 	url = ../python-homework.git
+[submodule "PREWORK_CP/Module-3/Activities/Module-3.1/Activity_17"]
+	path = PREWORK_CP/Module-3/Activities/Module-3.1/Activity_17
+	url = ../git-practice
