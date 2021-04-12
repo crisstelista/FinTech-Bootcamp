@@ -1,0 +1,23 @@
+import pandas as pd
+csv_path = r'D:\FinTech BootCamp\PREWORK_CP\Module-3\Activities\Module-3.2\Activity-5\stock_data.csv'
+csv_file = pd.read_csv(csv_path, header=0)
+
+total_records = len(csv_file.index)
+total_columns = len(csv_file.columns)
+print(csv_file.shape)
+print(csv_file.head(5))
+print('========IDENTIFYING NULLS==========')
+print(csv_file.isnull())
+print(f'{csv_file.isnull().mean()*100}  average percent of nulls ')
+print('========DROPPING NULLS==========')
+csv_file = csv_file.dropna()
+print(csv_file)
+print('======== Validate nulls have been dropped==========')
+print(csv_file.isnull().sum())
+print('======== Replace nulls with 0 ==========')
+csv_file['ebitda'] = csv_file['ebitda'].fillna(0)
+print(csv_file['ebitda'])
+print('======== no null ebitda values using the sum ==========')
+print(csv_file['ebitda'].isnull().sum())
+print('======== remove duplicate values ==========')
+csv_file = csv_file.drop_duplicates()
