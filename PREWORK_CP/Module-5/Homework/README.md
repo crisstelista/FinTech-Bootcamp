@@ -280,7 +280,7 @@ df_savings.plot(kind='pie', subplots=True);
 
 
     
-![png](Images/output_16_0.png)
+![png](images/output_16_0.png)
     
 
 
@@ -997,7 +997,7 @@ line_plot = MC_30_year.plot_simulation()
 
 
     
-![png](Images/output_24_0.png)
+![png](images/output_24_0.png)
     
 
 
@@ -1009,7 +1009,7 @@ dist_plot = MC_30_year.plot_distribution()
 
 
     
-![png](Images/output_25_0.png)
+![png](images/output_25_0.png)
     
 
 
@@ -1476,7 +1476,7 @@ line_plot = MC_5_year.plot_simulation()
 
 
     
-![png](Images/output_35_0.png)
+![png](images/output_35_0.png)
     
 
 
@@ -1488,7 +1488,7 @@ dist_plot = MC_5_year.plot_distribution()
 
 
     
-![png](Images/output_36_0.png)
+![png](images/output_36_0.png)
     
 
 
@@ -1928,7 +1928,7 @@ line_plot = MC_10_year.plot_simulation()
 
 
     
-![png](Images/output_42_0.png)
+![png](images/output_42_0.png)
     
 
 
@@ -1940,7 +1940,7 @@ dist_plot = MC_10_year.plot_distribution()
 
 
     
-![png](Images/output_43_0.png)
+![png](images/output_43_0.png)
     
 
 
