@@ -4,3 +4,6 @@
 [submodule "PREWORK_CP/Module-3/Activities/Module-3.1/Activity_17"]
 	path = PREWORK_CP/Module-3/Activities/Module-3.1/Activity_17
 	url = ../git-practice
+[submodule "PREWORK_CP/Project 1"]
+	path = PREWORK_CP/Project 1
+	url = ../../pyagh11/GroupProject1.git
