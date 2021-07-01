@@ -10,3 +10,6 @@
 [submodule "PREWORK_CP/Module-13/Homework"]
 	path = PREWORK_CP/Module-13/Homework
 	url = ../unit13-challenge.git
+[submodule "PREWORK_CP/Project 2"]
+	path = PREWORK_CP/Project 2
+	url = ../../Lucas-Shaiman/project-beta.git
