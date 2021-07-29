@@ -13,3 +13,6 @@
 [submodule "PREWORK_CP/Project 2"]
 	path = PREWORK_CP/Project 2
 	url = ../../Lucas-Shaiman/project-beta.git
+[submodule "PREWORK_CP/Module-19/Homework/hd-wallet-derive"]
+	path = PREWORK_CP/Module-19/Homework/hd-wallet-derive
+	url = ../../dan-da/hd-wallet-derive
