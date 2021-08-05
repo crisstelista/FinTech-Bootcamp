@@ -1,0 +1,11 @@
+./geth account new --datadir node1
+./geth account new --datadir node2
+
+./geth init pitu.json --datadir node1
+./geth init pitu.json --datadir node2
+
+./geth --datadir node1 --mine --minerthreads 1 --allow-insecure-unlock --unlock "0x24E7bc25E627e6210a3a15C6ed9354ef11B8E58E"
+
+./geth --datadir node2 --port 30304 --rpc --bootnodes "enode://6f01125f66ccf1d138cc50f31448bb4132059c1648a2cf47b8d59f49459851c1e856ea28df3042f80656ffbc987a95cf43b420c9783fa70cd20bec049ec6597f@127.0.0.1:30303" --ipcdisable --mine --allow-insecure-unlock --unlock "0x878D8C1a9518Ea2ac93461141FEB48A76b10aE5f"
+
+./geth --datadir node1 --mine --miner.threads 1
