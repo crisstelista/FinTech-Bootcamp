@@ -1,6 +1,0 @@
-node 2:
-
-Public address of the key:   0x878D8C1a9518Ea2ac93461141FEB48A76b10aE5f
-
-Private Key:
-0xa3b1911db1b03e2727e807b0f8915e6eb4fe6e28203a3089909d47caf356733d
