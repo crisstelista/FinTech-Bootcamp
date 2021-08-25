@@ -83,3 +83,4 @@ Deploy the crowdsale to the Kovan or Ropsten testnet, and store the deployed add
 ![Kovan1](Screenshots/Kovan1.JPG)
 ![Kovan2](Screenshots/Kovan2.JPG)
 ![Kovan3](Screenshots/Kovan3.JPG)
+![Kovan4](Screenshots/Kovan4.JPG)
